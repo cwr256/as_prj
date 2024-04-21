@@ -1,0 +1,46 @@
+D:\anaconda3\envs\pytorch\python.exe F:/as_prjs/premodel2.py
+cuda
+D:\anaconda3\envs\pytorch\lib\site-packages\torch\optim\lr_scheduler.py:131: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+Epoch 1/20, Train Loss: 2.6639, Train Accuracy: 0.5461
+Test Loss: 3.3624, Test Accuracy: 0.1535
+Epoch 2/20, Train Loss: 1.4126, Train Accuracy: 0.8596
+Test Loss: 1.2924, Test Accuracy: 0.7610
+Epoch 3/20, Train Loss: 0.8714, Train Accuracy: 0.9430
+Test Loss: 0.6269, Test Accuracy: 0.9386
+Epoch 4/20, Train Loss: 0.6812, Train Accuracy: 0.9490
+Test Loss: 0.5110, Test Accuracy: 0.9298
+Epoch 5/20, Train Loss: 0.5528, Train Accuracy: 0.9759
+Test Loss: 0.4069, Test Accuracy: 0.9474
+Epoch 6/20, Train Loss: 0.5239, Train Accuracy: 0.9764
+Test Loss: 0.3435, Test Accuracy: 0.9649
+Epoch 7/20, Train Loss: 0.4436, Train Accuracy: 0.9830
+Test Loss: 0.1727, Test Accuracy: 0.9803
+Epoch 8/20, Train Loss: 0.4051, Train Accuracy: 0.9819
+Test Loss: 0.2847, Test Accuracy: 0.9671
+Epoch 9/20, Train Loss: 0.3779, Train Accuracy: 0.9879
+Test Loss: 0.1979, Test Accuracy: 0.9868
+Epoch 10/20, Train Loss: 0.3501, Train Accuracy: 0.9907
+Test Loss: 0.2719, Test Accuracy: 0.9605
+Epoch 11/20, Train Loss: 0.3167, Train Accuracy: 0.9890
+Test Loss: 0.1326, Test Accuracy: 0.9825
+Epoch 12/20, Train Loss: 0.3014, Train Accuracy: 0.9923
+Test Loss: 0.1543, Test Accuracy: 0.9759
+Epoch 13/20, Train Loss: 0.2696, Train Accuracy: 0.9951
+Test Loss: 0.1257, Test Accuracy: 0.9868
+Epoch 14/20, Train Loss: 0.2522, Train Accuracy: 0.9962
+Test Loss: 0.1132, Test Accuracy: 0.9825
+Epoch 15/20, Train Loss: 0.2297, Train Accuracy: 0.9934
+Test Loss: 0.1364, Test Accuracy: 0.9825
+Epoch 16/20, Train Loss: 0.2028, Train Accuracy: 0.9967
+Test Loss: 0.1159, Test Accuracy: 0.9868
+Epoch 17/20, Train Loss: 0.2062, Train Accuracy: 0.9945
+Test Loss: 0.2764, Test Accuracy: 0.9583
+Epoch 18/20, Train Loss: 0.2304, Train Accuracy: 0.9852
+Test Loss: 0.2174, Test Accuracy: 0.9561
+Epoch 19/20, Train Loss: 0.2372, Train Accuracy: 0.9874
+Test Loss: 0.1503, Test Accuracy: 0.9781
+Epoch 20/20, Train Loss: 0.1871, Train Accuracy: 0.9951
+Test Loss: 0.1001, Test Accuracy: 0.9825
+
+进程已结束,退出代码0
